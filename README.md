@@ -1,8 +1,13 @@
 # task_marketplace
+
 Java Project as a test task 
+
 Level: Medium system requirements
+
 Start a project: from src/Main
+
 Provided: 
+
 
 ● System from the start has 3 products that can be sold. Each product contains:
   1. Id
